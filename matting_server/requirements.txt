@@ -1,0 +1,7 @@
+torch==1.7.0
+numpy==1.19.2
+opencv_python
+Flask==1.1.2
+torchvision==0.8.1
+gevent==21.1.2
+Pillow==8.2.0
